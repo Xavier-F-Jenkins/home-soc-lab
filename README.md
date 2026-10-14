@@ -33,10 +33,10 @@ The lab is managed by Proxmox which currently runs two Debian Linux containers.
 - [x] Configure container networking
 - [x] Implement centralized logging using rsyslog
 - [x] Verify remote auth log collection
-- [] Configure SSH auth monitoring
-- [] Implement security detection rules
-- [] Develop automated security alerts
-- [] Build a security monitoring dashboard
+- [ ] Configure SSH auth monitoring
+- [ ] Implement security detection rules
+- [ ] Develop automated security alerts
+- [ ] Build a security monitoring dashboard
 
 ## Doccumentation
 
