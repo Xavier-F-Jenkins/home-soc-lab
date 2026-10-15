@@ -41,7 +41,7 @@ The lab is managed by Proxmox which currently runs two Debian Linux containers.
 ## Stretch Goals 
 
 - [ ] Buy an additional 8GB of RAM
-- [ ] Buy an SSD to replace the HDD
+- [ ] Buy a SSD to replace the HDD
 - [ ] Install & run Wazuh
 
 ## Doccumentation
