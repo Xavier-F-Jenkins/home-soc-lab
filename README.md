@@ -38,6 +38,12 @@ The lab is managed by Proxmox which currently runs two Debian Linux containers.
 - [ ] Develop automated security alerts
 - [ ] Build a security monitoring dashboard
 
+## Stretch Goals 
+
+- [ ] Buy an additional 8GB of RAM
+- [ ] Buy an SSD to replace the HDD
+- [ ] Install & run Wazuh
+
 ## Doccumentation
 
 I will write detailed technical doccumentation about specific parts of this lab
